@@ -27,7 +27,7 @@
 Task! <br/>
 Drive-a baxin
 
-<h1> Lesson-1 [01 iyul 2022] </h1>
+<h1> Lesson-2 [05 iyul 2022] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
 <a href="https://github.com/"> Githubda qeydiyyatdan kecib mene username-nizi gonderin, dersde gosterdiyim kimi tapsiriqlari ora elave edin  </a> <br>
