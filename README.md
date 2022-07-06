@@ -39,10 +39,10 @@ Drive-a baxin
 <a href="https://www.w3schools.com/css/css_intro.asp">CSS nedir  </a> <br>
 <a href="https://www.w3schools.com/css/css_syntax.asp"> Css sintaksis </a> <br>
 <a href="https://www.w3schools.com/css/css_howto.asp"> Css qosulma </a> <br>
-<a href="https://www.w3schools.com/css/css_dimension.asp"> CSS Height, Width  </a> 
-<a href="https://www.w3schools.com/css/css_colors.asp">CSS Colors  </a> 
-<a href="https://www.w3schools.com/css/css_text_decoration.asp">CSS Text Decoration  </a> 
-<a href="https://www.w3schools.com/css/css_font_size.asp"> CSS Font Size </a> 
-<a href="https://www.w3schools.com/cssref/pr_text_text-align.ASP">CSS text-align Property </a> 
+<a href="https://www.w3schools.com/css/css_dimension.asp"> CSS Height, Width  </a> <br>
+<a href="https://www.w3schools.com/css/css_colors.asp">CSS Colors  </a> <br>
+<a href="https://www.w3schools.com/css/css_text_decoration.asp">CSS Text Decoration  </a> <br>
+<a href="https://www.w3schools.com/css/css_font_size.asp"> CSS Font Size </a> <br>
+<a href="https://www.w3schools.com/cssref/pr_text_text-align.ASP">CSS text-align Property </a> <br>
 Task! <br/>
 Drive-a baxin
