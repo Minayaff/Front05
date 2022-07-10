@@ -1,0 +1,30 @@
+.box1 img{
+    width: 500px;
+    height: 300px;
+}
+
+.box1{
+    width: 50%;
+    text-align: center;
+}
+.box1 p{
+    color: gray;
+}
+
+.box1 a{
+    color: white;
+    padding: 1% 4%;
+    margin-right: 2%;
+    text-decoration: none;
+    /* border-style: dashed;
+    border-color: black;
+    border-width: 2px; */
+    border: 2px dashed black;
+    border-radius: 25px 0;
+}
+
+.box1 h3 i{
+    color: red;
+    font-size: 40px;
+    background-color: black;
+}

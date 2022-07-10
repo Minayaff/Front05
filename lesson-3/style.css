@@ -1,0 +1,21 @@
+body {
+    background-color: #808080;
+}
+
+h1,
+p,
+a,
+h3 {
+    color: white;
+    text-align: center;
+}
+
+.text1 {
+    margin: 0 7% 5%;
+}
+
+.text2 {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
