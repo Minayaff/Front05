@@ -3,7 +3,7 @@
 <a href="https://drive.google.com/drive/folders/1_jse_NIst9AAYvOihIXAJpX3tf_vZGME?usp=sharing">Drive Link(Video dersler)</a> <br>
 
 ## Tələbələr
- - [Nurane]()
+ - [Nurane](https://github.com/NuranaOruc)
  - [Gunel]()
  - [Subhan]()
  - [Revan]()
