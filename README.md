@@ -5,9 +5,9 @@
 ## Tələbələr
  - [Nurane](https://github.com/NuranaOruc)
  - [Gunel]()
- - [Subhan]()
+ - [Subhan](https://github.com/javadoffss)
  - [Revan]()
- - [Murad]()
+ - [Murad](https://github.com/murad114)
  - [Aygul]()
  - [Sevil]()
  - [Fuad]()
