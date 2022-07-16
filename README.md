@@ -4,13 +4,13 @@
 
 ## Tələbələr
  - [Nurane](https://github.com/NuranaOruc)
- - [Gunel]()
+ - [Gunel](https://github.com/SeyfullayevaGunel)
  - [Subhan](https://github.com/javadoffss)
  - [Revan]()
  - [Murad](https://github.com/murad114)
  - [Aygul]()
- - [Sevil]()
- - [Fuad]()
+ - [Sevil](https://github.com/SevilHeyderova)
+ - [Fuad](https://github.com/fuadaliyevchess)
 
 <h1> Istifade olunan documentationlar </h1>
 <a href="https://www.w3schools.com/html/default.asp">W3School</a> <br>
