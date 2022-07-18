@@ -73,4 +73,8 @@ Drive-a baxin
 <h4>Oxumalı mövzular</h4>
 <a href="https://www.w3schools.com/css/css_inline-block.asp#:~:text=The%20display%3A%20inline%2Dblock%20Value,display%3A%20inline%20they%20are%20not.">display: inline-block</a> <br>
 <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_inline-block_span1">Inline inline-block block ferqi</a> <br>
-<a href=""></a> <br>
+
+
+<h1> Lesson-5 [15 iyul 2022] </h1>
+<hr>
+<a href="https://www.w3schools.com/css/css3_box-sizing.asp">CSS Box Sizing</a> <br>
