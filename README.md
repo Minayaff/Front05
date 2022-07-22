@@ -78,3 +78,16 @@ Drive-a baxin
 <h1> Lesson-5 [15 iyul 2022] </h1>
 <hr>
 <a href="https://www.w3schools.com/css/css3_box-sizing.asp">CSS Box Sizing</a> <br>
+
+<h1> Lesson-6 [19 iyul 2022] </h1>
+<hr>
+<a href="https://preview.colorlib.com/theme/gardening/"> Bu saytdan verdiyim hisseleri isleyin(drive-a atmisam sekilleri)</a> <br>
+<a href="https://www.w3schools.com/css/css_float.asp">Float</a> <br>
+<a href="https://www.w3schools.com/css/css_float_clear.asp">ClearFix</a> <br>
+<a href="https://www.w3schools.com/css/css_background.asp">CSS Backgrounds</a> <br>
+<a href="https://www.w3schools.com/css/css_background_image.asp">Background Image</a> <br>
+<a href="https://www.w3schools.com/css/css_background_repeat.asp">background_repea</a> <br>
+<a href="https://www.w3schools.com/css/css_background_attachment.asp">background_attachment</a> <br>
+<a href="https://www.w3schools.com/css/css_background_shorthand.asp">css_background_shorthand</a> <br>
+<a href="https://www.w3schools.com/cssref/pr_background-position.asp"> background-position</a> <br>
+<a href="https://www.w3schools.com/cssref/css3_pr_background-size.asp"> background-size</a> <br>
