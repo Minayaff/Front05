@@ -55,3 +55,12 @@
 #### **Turk**
 - [Article](https://sadikturan.com/css/css-selectors/1149) 
 - [Video](https://www.youtube.com/watch?v=Zp-XH_aYPo8&list=PLXuv2PShkuHx5OI3uWEJ7jwTG2_YTuz7u&index=8)
+
+## Lesson 3 [ 23.07.2022 ]
+***
+> - Html Structure
+> - [Lesson Task](https://gist.github.com/DrMadWill/1e7d1ca5ecf530d0b90894cccd3d3ce3)
+
+#### Home Work
+> - Aşağıdakı şəklin html structurnu qurun.
+**![Home Work](Img/TaskHtmlSturuct.png)**
