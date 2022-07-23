@@ -6,7 +6,7 @@
  - [Nurane](https://github.com/NuranaOruc)
  - [Gunel](https://github.com/SeyfullayevaGunel)
  - [Subhan](https://github.com/javadoffss)
- - [Revan]()
+ - [Revan](https://github.com/RavanM)
  - [Murad](https://github.com/murad114)
  - [Aygul]()
  - [Sevil](https://github.com/SevilHeyderova)
